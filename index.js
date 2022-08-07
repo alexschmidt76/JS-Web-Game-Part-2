@@ -35,7 +35,7 @@ function newInventory(){
     return inventory
 }
 
-var inventory = newInventory()
+let inventory = newInventory()
 
 newImage('assets/green-character.gif', 100, 250)
 newImage('assets/tree.png', 200, 450)
